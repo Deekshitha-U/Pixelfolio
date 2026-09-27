@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import InfoModal from "./components/InfoModel";
 import Lightbox from "./components/Lightbox";
 
-import images from "./data/images";
+import images from "./Data/images";
 
 function App() {
   const searchRef = useRef(null);

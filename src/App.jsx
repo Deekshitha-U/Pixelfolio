@@ -5,10 +5,10 @@ import Gallery from "./components/Gallery";
 import Login from "./components/Login";
 import LiveGallery from "./components/LiveGallery";
 import Footer from "./components/Footer";
-import InfoModal from "./components/InfoModel";
+import InfoModal from "./components/InfoModal";
 import Lightbox from "./components/Lightbox";
 
-import images from "./Data/images";
+import images from "./data/images";
 
 function App() {
   const searchRef = useRef(null);
